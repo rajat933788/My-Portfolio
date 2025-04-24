@@ -117,7 +117,7 @@ function Home() {
           </div>
           <div ref={buttonRef} className="mt-12">
             <a
-              href="/rajat_cv.pdf"
+              href="/CV_Rajatrecent.pdf"
               download="rajat_cv.pdf"
               className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-gradient-to-br from-blue-500 to-purple-600 p-0.5 font-bold text-white"
             >
