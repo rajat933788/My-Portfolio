@@ -109,7 +109,7 @@ export const skills = [
 
 export const certifications = [
   {id:1, title:"Microsoft Certified: Azure Administrator Associate", link: "https://drive.google.com/file/d/1m0Y4IHpesUrt5wVT5x1p_IA83ThDJZ90/view?usp=sharing"},
-  { id: 2, title: "Internet of Things - NPTEL",  },
+  { id: 2, title: "Internet of Things - NPTEL",link:"https://drive.google.com/file/d/17qDCkR0f1fVStIs6YvylIRzlfu-B3D-6/view?usp=drivesdk"  },
   { id: 3, title: "Algorithms on Strings",  },
  
   { id:4, title:"Introduction to Large Language Models- Google ",},
