@@ -113,8 +113,8 @@ export const certifications = [
   { id: 3, title: "Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization (Microsoft)", link: "https://coursera.org/share/ef510a4298efd903a9e1ffe64c1c72c5" },
   { id: 4, title:"Microsoft Power Platform Fundamentals PL-900 Exam Prep Specialization (Microsoft)", link: "https://coursera.org/share/3683ff28e6dfae131f6b882993f72f18"},
   { id: 5, title: "Internet of Things - NPTEL",link:"https://drive.google.com/file/d/17qDCkR0f1fVStIs6YvylIRzlfu-B3D-6/view?usp=drivesdk"  },
-  { id: 6, title:"Cloud Computing - AWS" , link: "https://drive.google.com/file/d/1kvn0gDYqj_ocr0zQ1m_CT_x93gMOysSr/view?usp=sharing"}
-  { id: 7, title: "Algorithms on Strings", link: "https://coursera.org/share/a54c5311e697e06ea309c585dbc596fa"  },
+  { id: 6, title:"Cloud Computing - AWS" , link: "https://drive.google.com/file/d/1kvn0gDYqj_ocr0zQ1m_CT_x93gMOysSr/view?usp=sharing"},
+  { id: 7, title: "Algorithms on Strings", link: "https://coursera.org/share/a54c5311e697e06ea309c585dbc596fa" },
  
   { id: 8, title:"Introduction to Large Language Models- Google ", link: "https://coursera.org/share/417139e54db2ba08a7b456f790581c8f"},
   { id: 9,title:"Introduction to Generative AI- Google", link: "https://coursera.org/share/9eed41eb7e17f05b22272055effe2849"},
