@@ -7,9 +7,9 @@ const profileLinks = [
   { name: 'GitHub', icon: 'FaGithub', url: 'https://github.com/rajat933788' },
   { name: 'LinkedIn', icon: 'FaLinkedin', url: 'https://www.linkedin.com/in/rajatt27/' },
   { name: 'Figma', icon: 'FaFigma', url: 'https://www.figma.com/@rajat18' },
-  { name: 'HackerRank', icon: 'FaHackerrank', url: 'https://www.hackerrank.com/profile/apurwasharma2002' },
-  { name: 'StackOverflow', icon: 'FaStackOverflow', url: 'https://stackoverflow.com/users/yourprofile' },
-  { name: 'LeetCode', icon: 'SiLeetcode', url: 'https://leetcode.com/u/IwYM3o08s6/' },
+  { name: 'HackerRank', icon: 'FaHackerrank', url: 'https://www.hackerrank.com/profile/rajatbagh037' },
+  { name: 'StackOverflow', icon: 'FaStackOverflow', url: 'https://stackoverflow.com/users/20837142/rajat' },
+  { name: 'LeetCode', icon: 'SiLeetcode', url: 'https://leetcode.com/u/27_rajatt/' },
   { name: 'GeeksforGeeks', icon: 'SiGeeksforgeeks', url: 'https://www.geeksforgeeks.org/user/rajat_xd/' },
   { name: 'Email', icon: 'MdEmail', url: 'mailto:rajatbagh037@gmail.com' },
 ];
