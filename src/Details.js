@@ -133,8 +133,8 @@ export const projectDetails = [
     image: projectImage1,
     description: `Discover my portfolio—an interactive showcase of projects, skills, and contact information. Explore live project previews and GitHub repositories to see my work in action.`,
     techstack: "React.js, Node.js, Tailwind css",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://rajatbagh.site/",
+    githubLink: "https://github.com/rajat933788/My-Portfolio",
   },
   
   {
@@ -149,14 +149,16 @@ export const projectDetails = [
     image: projectImage3,
     description: `Designed a user-centric food delivery app UI/UX using Figma and FigJam, emphasizing seamless interaction and intuitive navigation.`,
     techstack: "Figma",
-    previewLink: "https://figma.com",
+    previewLink: "https://figma.comhttps://www.figma.com/design/i7Pnr5CUn6cBLLm9Rguuo9/Untitled?node-id=0-1&p=f&t=BoNdcnoZgXWGOpez-0",
+    githubLink: "https://github.com/rajat933788/food-deliver-app-ui/tree/main",
   },
   {
     title: "Healthcare Website",
     image: projectImage4,
     description: `Developed a responsive healthcare website using HTML, CSS, and JavaScript, with an emphasis on clean UI, accessibility, and user engagement.`,
     techstack: "HTML, CSS , JAVASCRIPT",
-    githubLink: "https://github.com",
+    previewLink: "https://rajat933788.github.io/project/",
+    githubLink: "https://github.comhttps://github.com/rajat933788/project",
   },
   
 ];
