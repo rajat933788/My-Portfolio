@@ -6,18 +6,32 @@ function About() {
   return (
     <main className="container mx-auto max-w-screen-xl py-10 px-6 lg:px-8 mt-10">
       {/* About Me Section */}
-      <section className="mb-16">
-        <h1 className="text-4xl md:text-5xl font-bold text-center mb-8">
-          <span className="bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
-            About Me
-          </span>
-        </h1>
-        <div className="bg-neutral-800 rounded-lg p-8 shadow-lg max-w-4xl mx-auto">
-          <p className="text-xl text-gray-300 leading-relaxed">
-            {personalDetails.about}
-          </p>
-        </div>
-      </section>
+{/* About Me Section */}
+<section className="mb-16">
+  <h1 className="text-4xl md:text-5xl font-bold text-center mb-8">
+    <span className="bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
+      About Me
+    </span>
+  </h1>
+  <div className="flex flex-col lg:flex-row items-center bg-neutral-800 rounded-lg p-8 shadow-lg max-w-6xl mx-auto gap-8">
+    {/* Text Section */}
+    <div className="lg:w-2/3">
+      <p className="text-xl text-gray-300 leading-relaxed text-justify">
+        {personalDetails.about}
+      </p>
+    </div>
+
+    {/* Image Section */}
+    <div className="lg:w-1/3">
+      <img
+        src="/profile.jpg"
+        alt="About Me"
+        className="rounded-lg shadow-lg object-cover w-full h-auto max-h-80"
+      />
+    </div>
+  </div>
+</section>
+
 
       {/* LeetCode Calendar Section */}
       <section className="mb-16">
