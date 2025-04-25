@@ -149,7 +149,7 @@ export const projectDetails = [
     image: projectImage3,
     description: `Designed a user-centric food delivery app UI/UX using Figma and FigJam, emphasizing seamless interaction and intuitive navigation.`,
     techstack: "Figma",
-    previewLink: "https://figma.comhttps://www.figma.com/design/i7Pnr5CUn6cBLLm9Rguuo9/Untitled?node-id=0-1&p=f&t=BoNdcnoZgXWGOpez-0",
+    previewLink: "https://www.figma.com/proto/i7Pnr5CUn6cBLLm9Rguuo9/Untitled?node-id=0-70&p=f&t=XvJEd5BUGSXvFME4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
     githubLink: "https://github.com/rajat933788/food-deliver-app-ui/tree/main",
   },
   {
@@ -158,7 +158,7 @@ export const projectDetails = [
     description: `Developed a responsive healthcare website using HTML, CSS, and JavaScript, with an emphasis on clean UI, accessibility, and user engagement.`,
     techstack: "HTML, CSS , JAVASCRIPT",
     previewLink: "https://rajat933788.github.io/project/",
-    githubLink: "https://github.comhttps://github.com/rajat933788/project",
+    githubLink: "https://github.com/rajat933788/project",
   },
   
 ];
