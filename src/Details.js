@@ -163,19 +163,19 @@ export const projectDetails = [
 
   {
     title: "Docker Application Implement in ECS",
-    image: "/assets/project5.png",
+    image: "",
     description: `Deployed a Docker application on AWS ECS, leveraging ECR for image storage and enabling scalable container management.`,
     techstack: "Amazon Web Service, Docker",
-    previewLink: "",
+    //previewLink: "",
     githubLink: "https://github.com/rajat933788/Flask-app",
   },
 
   {
     title: "Rock, Paper and Scissor",
-    image: "/assets/project6.png",
+    image: "",
     description: `Created a user-friendly Rock Paper Scissor Game.`,
     techstack: "Python Programming using different Tuple and Functions.",
-    previewLink: "",
+    //previewLink: "",
     githubLink: "https://github.com/rajat933788/Rock-Paper-Scissors",
   },
 
